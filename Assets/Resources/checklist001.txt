@@ -1,0 +1,16 @@
+{
+	"name": "checklist001",
+	"type": "checklist",
+	"codes": [
+		"NAVE0001",
+		"NAVE0001",
+		"NAVE0001",
+		"NAVE0001",
+	],
+	"steps": [
+		"Verify 1 + 1 = 2",
+		"Check surroundings are real",
+		"-",
+		"-",	
+	]
+}
